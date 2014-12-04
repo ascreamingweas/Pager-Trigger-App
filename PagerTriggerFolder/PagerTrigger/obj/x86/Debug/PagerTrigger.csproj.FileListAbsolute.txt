@@ -1,0 +1,9 @@
+M:\aSE\PagerTrigger\PagerTrigger\PagerTrigger\bin\Debug\PagerTrigger.exe
+M:\aSE\PagerTrigger\PagerTrigger\PagerTrigger\bin\Debug\PagerTrigger.pdb
+M:\aSE\PagerTrigger\PagerTrigger\PagerTrigger\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\aSE\PagerTrigger\PagerTrigger\PagerTrigger\obj\x86\Debug\PagerTrigger.Form1.resources
+M:\aSE\PagerTrigger\PagerTrigger\PagerTrigger\obj\x86\Debug\PagerTrigger.Properties.Resources.resources
+M:\aSE\PagerTrigger\PagerTrigger\PagerTrigger\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\aSE\PagerTrigger\PagerTrigger\PagerTrigger\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\aSE\PagerTrigger\PagerTrigger\PagerTrigger\obj\x86\Debug\PagerTrigger.exe
+M:\aSE\PagerTrigger\PagerTrigger\PagerTrigger\obj\x86\Debug\PagerTrigger.pdb
